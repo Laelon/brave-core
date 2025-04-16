@@ -1,4 +1,0 @@
-include_rules = [
-  "+chrome/installer/util",
-  "+chrome/install_static"
-]

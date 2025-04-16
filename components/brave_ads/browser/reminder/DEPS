@@ -1,3 +1,0 @@
-include_rules = [
-  "+brave/grit/brave_generated_resources.h",
-]

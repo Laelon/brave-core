@@ -1,3 +1,0 @@
-include_rules = [
-  "+brave/components/services/bat_ads",
-]
